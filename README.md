@@ -36,3 +36,9 @@ Customer Ratings - how satisfaction and engagement differ across categories, and
   <img width="903" height="116" alt="key_values" src="https://github.com/user-attachments/assets/490a64b6-75ae-4c02-86dc-70026a1fc36c" />
 </p>
 
+## Key Findings
+// TODO 
+
+
+<img width="2778" height="1314" alt="image" src="https://github.com/user-attachments/assets/15794ff9-0f37-4c8a-a241-154bd1312cdc" />
+
