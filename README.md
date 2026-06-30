@@ -37,8 +37,10 @@ Customer Ratings - how satisfaction and engagement differ across categories, and
 </p>
 
 ## Key Findings
-// TODO 
 
+||
+| :--- |
+| 97,3 % of all products are in just 3 categories Electronics, Home&Kitchen, Computers&Accessories make up 1299 of 1335 products. Any pricing, quality or other issue/pattern in big three can be extrapolated on other categories |
 
-<img width="2778" height="1314" alt="image" src="https://github.com/user-attachments/assets/15794ff9-0f37-4c8a-a241-154bd1312cdc" />
+<img width="2778" height="1314" alt="Catalog Overview" src="https://github.com/user-attachments/assets/ff2456ab-a048-4599-9f52-5556a5129a03" />
 
