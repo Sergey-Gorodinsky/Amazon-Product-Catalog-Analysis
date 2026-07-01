@@ -60,6 +60,10 @@ Customer Ratings - how satisfaction and engagement differ across categories, and
 
 # 2. Detailed Insights
 
+## Pricing
+<img width="1439" height="873" alt="Prices" src="https://github.com/user-attachments/assets/7451cb48-a20c-4a1a-9bd4-756e1b9416c1" />
+
+
 
 
 
