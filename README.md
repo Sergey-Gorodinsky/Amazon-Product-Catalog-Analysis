@@ -36,11 +36,26 @@ Customer Ratings - how satisfaction and engagement differ across categories, and
   <img width="903" height="116" alt="key_values" src="https://github.com/user-attachments/assets/490a64b6-75ae-4c02-86dc-70026a1fc36c" />
 </p>
 
-## Key Findings
+<img width="2778" height="1314" alt="Catalog Overview (1)" src="https://github.com/user-attachments/assets/0fdab335-ce37-4088-aef5-bb46c5763dcc" />
 
-||
-| :--- |
-| 97,3 % of all products are in just 3 categories Electronics, Home&Kitchen, Computers&Accessories make up 1299 of 1335 products. Any pricing, quality or other issue/pattern in big three can be extrapolated on other categories |
 
-<img width="2778" height="1314" alt="Catalog Overview" src="https://github.com/user-attachments/assets/ff2456ab-a048-4599-9f52-5556a5129a03" />
+
+
+
+# 1. Key Findings
+
+<div align="center">
+
+| Finding | Details |
+|---|---|
+| **97.3% of all products are in just 3 categories** | Electronics, Home & Kitchen, Computers & Accessories make up 1,299 of 1,335 products. Any pricing, quality, or other issue/pattern in the big three can be extrapolated to the other categories. |
+| **~50% discount policy** | The catalog average discount is 46.41%, with a maximum of 94%. This is a systematic high-low pricing policy. The USB-C adapter listed at ₹4,990 sold for ₹294 (94% off). |
+| **Discounts and ratings have a negative correlation** | Categories with the lowest discounts have the highest ratings: Office Products (11.1% discount — 4.31 average rating), Painting Materials (0% discount — 4.50 average rating). |
+| **USB Cables alone are 13.7% of the entire catalog** | 183 of 1,335 products are USB Cables. Within Electronics, they are 39.5% of all products. |
+
+</div>
+
+
+<img width="2778" height="1314" alt="Subcategory Overview (1)" src="https://github.com/user-attachments/assets/42c9fee0-b594-4ddc-bd2c-3f46d4d11794" />
+
 
