@@ -58,4 +58,9 @@ Customer Ratings - how satisfaction and engagement differ across categories, and
 
 <img width="2778" height="1314" alt="Subcategory Overview (1)" src="https://github.com/user-attachments/assets/42c9fee0-b594-4ddc-bd2c-3f46d4d11794" />
 
+# 2. Detailed Insights
+
+
+
+
 
