@@ -58,13 +58,33 @@ Customer Ratings - how satisfaction and engagement differ across categories, and
 
 <img width="2778" height="1314" alt="Subcategory Overview (1)" src="https://github.com/user-attachments/assets/42c9fee0-b594-4ddc-bd2c-3f46d4d11794" />
 
+---
+
 # 2. Detailed Insights
 
 ## Pricing
 <img width="1439" height="873" alt="Prices" src="https://github.com/user-attachments/assets/7451cb48-a20c-4a1a-9bd4-756e1b9416c1" />
 
+**Extensive pricing spectrum**
+* The catalog extremely wide pricing spectrum, with prices ranging from **₹39** to **₹77,990** (a nearly **2000x difference**). The overall average price of **₹3,262** is heavily skewedby the Electronics category.
+
+**Hight Quality**
+* The majority of products (regardless of price) are concentrated in the rating range from 3.8 to 4.5. This indicates a generally high level of customer satisfaction.There are practically no products with a low rating (below 3.8).
+
+**Average Prices**
+*  Electronics: **₹6,433**
+*  Home & Kitchen: **₹2,333**
+*  Computers: **₹824**
+
+**Widest Relative Spread: Smart Watches**
+* Price Range: **₹249 - ₹12,000** (48x difference)
+
+**Widest Absolute Spread: Smart TVs**
+* Max Difference: **₹70,691**
+
+**Premium Tier Observation:** 
+* The most expensive product in the dataset (*Sony Bravia 164 cm 4K Ultra HD Smart TV*) has a **4.7 rating**, confirming that high price and quality strongly align at the luxury tier.
 
 
-
-
+## Discounts
 
